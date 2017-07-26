@@ -7,7 +7,7 @@
 
 <script>
 	export default {
-	  name: 'Ya'
+	  name: 'Yajjjjj'
 	}
 </script>
 <style scoped>
@@ -20,8 +20,8 @@
     }
 	.bg{
 	  position:absoult;
-	  width: 100%;
-	  height: 100%;
+	  width: 10%;
+	  height: 10%;
 	  background: url('../assets/bg.jpg') no-repeat left top;
 	  background-size: 100% 100%;
 	  font-size: 100px;
